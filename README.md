@@ -1,4 +1,4 @@
-Source Code for experiments in ECAI Paper #1386
+Source Code for experiments in RuleML+RR 2024 Paper #35
 
 Contains the situated object dataset, preprocessed to merge coexisting quality values for the same quality into one (e.g., physical_hard and physical_brittle become physical_hard_brittle).
 
